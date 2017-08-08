@@ -1,0 +1,2 @@
+map: https://raw.githubusercontent.com/Clef-0/FMM-Files/master/Battle Canyon/Battle Canyon.ini
+map: https://raw.githubusercontent.com/Clef-0/FMM-Files/master/BATTLE CREEK/BATTLE CREEK.ini
